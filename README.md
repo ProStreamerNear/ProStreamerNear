@@ -1,6 +1,15 @@
-Howdy.
-わからないやつら
-[![わからない。](https://skillicons.dev/icons?i=bash,git,github,js,linux,misskey,neovim,nodejs,nextjs,,discord,cloudflare&theme=dark&perline=5)](https://skillicons.dev)
+# Howdy.
+```json
+{
+  "name":{
+    "ja-jp":"にあ",
+    "en-us":"Near"
+  },
+  "learning":["JavaScript","Python","SQL","JSON","Discord API"],
+  "♥":["kawaii"]
+}
+```
+
 <!--
 **ProStreamerNear/ProStreamerNear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
