@@ -1,5 +1,5 @@
 Howdy.
-
+[![わからない。](https://skillicons.dev/icons?i=bash,git,github,js,linux,misskey,neovim,nodejs,nextjs,,discord,cloudflare&theme=dark)](https://skillicons.dev)
 <!--
 **ProStreamerNear/ProStreamerNear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
