@@ -6,6 +6,7 @@ let ProStreamerNear = {
     "ja-jp":"にあ",
     "en-us":"Near"
   },
+  "product":["@or-app"]
   "💭":{
       "Java":"遥か昔過ぎて覚えてない。",
       "Python":"Discord Botを作成し始めた時に使っていた言語。",
