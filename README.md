@@ -7,9 +7,7 @@ let ProStreamerNear = {
     "en-us":"Near"
   },
   "org":["@or-app"]
-  "💭":{
-      "🐈️":"nyaa~"
-  }
+  "💭":"Now you see me Now you don't",
   "❤":["kawaii"]
 }
 ```
