@@ -6,14 +6,9 @@ let ProStreamerNear = {
     "ja-jp":"にあ",
     "en-us":"Near"
   },
-  "product":["@or-app"]
+  "org":["@or-app"]
   "💭":{
-      "Java":"遥か昔過ぎて覚えてない。",
-      "Python":"Discord Botを作成し始めた時に使っていた言語。",
-      "JSON":"データの保存の為に覚えた。書きやすいね！",
-      "SQL":"DBが便利ってことに気づいた。",
-      "Redis→DragonflyDB":"MySQLが遅い！ってなって覚え始めた。いろいろ便利そう。"
-      "JavaScript":"楽しいね。",
+      "🐈️":"nyaa~"
   }
   "❤":["kawaii"]
 }
